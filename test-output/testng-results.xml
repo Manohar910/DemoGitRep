@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="98" started-at="2021-09-02T13:02:52 IST" finished-at="2021-09-02T13:02:52 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="98" started-at="2021-09-02T13:02:52 IST" finished-at="2021-09-02T13:02:52 IST">
+      <class name="com.StreamsJava.Streams1">
+        <test-method status="PASS" signature="StreamsMethod()[pri:0, instance:com.StreamsJava.Streams1@1c3a4799]" name="StreamsMethod" duration-ms="24" started-at="2021-09-02T13:02:52 IST" finished-at="2021-09-02T13:02:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StreamsMethod -->
+      </class> <!-- com.StreamsJava.Streams1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
